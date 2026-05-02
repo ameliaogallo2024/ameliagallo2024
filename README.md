@@ -1,6 +1,6 @@
 # Hi there! I'm Amelia Gallo 
 
-I am a sophomore at the University of South Florida, currently transitioning my academic focus from Business Analytics and Information Systems to Criminology. I am passionate about social justice and the legal system.
+I am an incoming junior at the University of South Florida, currently transitioning my academic focus from Business Analytics and Information Systems to Criminology. I am passionate about social justice and the legal system.
 
 # Academic & Career Interests
 * Current Focus: Pursuing a degree in Criminology with a focus on criminal justice reform and legal theory.
