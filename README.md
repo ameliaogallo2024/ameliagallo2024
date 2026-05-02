@@ -8,7 +8,7 @@ I am an incoming junior at the University of South Florida, currently transition
 * Background: Strong foundation in business intelligence, consumer behavior, and performance marketing.
 
 # Technical Skills & Tools
-* Data Analytics: Tableau and Microsoft Excel 
+* Data Analytics: Tableau, Python, CrewAI and Microsoft Excel 
 * Digital Marketing: Shopify, Meta Ad Manager, and brand development.
 * Certifications: Professional certification in food safety and operations management.
 
